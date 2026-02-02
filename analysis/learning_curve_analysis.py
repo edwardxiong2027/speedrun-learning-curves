@@ -21,6 +21,18 @@ import os
 import warnings
 warnings.filterwarnings('ignore')
 
+
+class NumpyEncoder(json.JSONEncoder):
+    """Custom JSON encoder for numpy types."""
+    def default(self, obj):
+        if isinstance(obj, np.integer):
+            return int(obj)
+        if isinstance(obj, np.floating):
+            return float(obj)
+        if isinstance(obj, np.ndarray):
+            return obj.tolist()
+        return super().default(obj)
+
 # Set style for publication-quality figures
 plt.style.use('seaborn-v0_8-whitegrid')
 plt.rcParams['figure.figsize'] = (10, 6)
@@ -437,7 +449,7 @@ def main():
     # Save analysis results
     output_path = os.path.join(os.path.dirname(__file__), 'analysis_results.json')
     with open(output_path, 'w') as f:
-        json.dump(all_results, f, indent=2)
+        json.dump(all_results, f, indent=2, cls=NumpyEncoder)
     print(f"\nResults saved to: {output_path}")
 
     # Create visualizations

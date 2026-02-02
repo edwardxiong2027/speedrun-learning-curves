@@ -1,0 +1,2402 @@
+[
+  {
+    "name": "Super Mario 64",
+    "id": "o1y9wo6q",
+    "categories": [
+      {
+        "name": "120 Star",
+        "id": "wkpoo02r",
+        "total_runs": 600,
+        "wr_progression": [
+          {
+            "date": "2006-09-14",
+            "time_seconds": 7840,
+            "run_id": "jy9d4em4"
+          },
+          {
+            "date": "2010-07-14",
+            "time_seconds": 7660,
+            "run_id": "7ylxgnyp"
+          },
+          {
+            "date": "2011-01-01",
+            "time_seconds": 6760,
+            "run_id": "9yoxg0yx"
+          },
+          {
+            "date": "2011-05-13",
+            "time_seconds": 6757,
+            "run_id": "0y6ge1m7"
+          },
+          {
+            "date": "2011-05-18",
+            "time_seconds": 6589,
+            "run_id": "pydk5nxm"
+          },
+          {
+            "date": "2011-10-01",
+            "time_seconds": 6530,
+            "run_id": "ylejdkkz"
+          },
+          {
+            "date": "2011-12-17",
+            "time_seconds": 6512,
+            "run_id": "ydor84vz"
+          },
+          {
+            "date": "2011-12-28",
+            "time_seconds": 6430,
+            "run_id": "0zn917ly"
+          },
+          {
+            "date": "2012-03-02",
+            "time_seconds": 6425,
+            "run_id": "y8jgw15z"
+          },
+          {
+            "date": "2012-08-05",
+            "time_seconds": 6383,
+            "run_id": "8y8odjnm"
+          },
+          {
+            "date": "2012-08-07",
+            "time_seconds": 6381,
+            "run_id": "0y6gdnjm"
+          },
+          {
+            "date": "2012-08-09",
+            "time_seconds": 6335,
+            "run_id": "7z08ro8m"
+          },
+          {
+            "date": "2012-09-02",
+            "time_seconds": 6292,
+            "run_id": "1zq2108z"
+          },
+          {
+            "date": "2012-10-15",
+            "time_seconds": 6263,
+            "run_id": "oy2nx0wy"
+          },
+          {
+            "date": "2013-01-30",
+            "time_seconds": 6241,
+            "run_id": "dy4jr8ky"
+          },
+          {
+            "date": "2013-08-18",
+            "time_seconds": 6217,
+            "run_id": "dy4jlnyl"
+          },
+          {
+            "date": "2013-08-19",
+            "time_seconds": 6202,
+            "run_id": "pm3wjwy0"
+          },
+          {
+            "date": "2014-07-20",
+            "time_seconds": 6195,
+            "run_id": "0zn9o93y"
+          },
+          {
+            "date": "2014-07-25",
+            "time_seconds": 6182,
+            "run_id": "8y8ovo1m"
+          },
+          {
+            "date": "2014-07-28",
+            "time_seconds": 6181,
+            "run_id": "0y6g6gpm"
+          },
+          {
+            "date": "2014-08-04",
+            "time_seconds": 6179,
+            "run_id": "7z0868em"
+          },
+          {
+            "date": "2014-08-16",
+            "time_seconds": 6177,
+            "run_id": "1zq2gqxz"
+          },
+          {
+            "date": "2014-09-14",
+            "time_seconds": 6174,
+            "run_id": "dy4j2ldy"
+          },
+          {
+            "date": "2014-09-24",
+            "time_seconds": 6161,
+            "run_id": "pm3wnj4y"
+          },
+          {
+            "date": "2014-12-18",
+            "time_seconds": 6152,
+            "run_id": "kz5l0gny"
+          },
+          {
+            "date": "2015-03-06",
+            "time_seconds": 6129,
+            "run_id": "6yj9rdzd"
+          },
+          {
+            "date": "2015-04-05",
+            "time_seconds": 6076,
+            "run_id": "9mr04xdm"
+          },
+          {
+            "date": "2015-04-22",
+            "time_seconds": 6072,
+            "run_id": "8m7e8oez"
+          },
+          {
+            "date": "2015-08-10",
+            "time_seconds": 6059,
+            "run_id": "1zxj6x5y"
+          },
+          {
+            "date": "2015-09-06",
+            "time_seconds": 6052,
+            "run_id": "emko711z"
+          },
+          {
+            "date": "2015-09-08",
+            "time_seconds": 6051,
+            "run_id": "nz135x7m"
+          },
+          {
+            "date": "2015-12-19",
+            "time_seconds": 6044,
+            "run_id": "6yjlwvoz"
+          },
+          {
+            "date": "2016-04-30",
+            "time_seconds": 6039,
+            "run_id": "1zqev3rz"
+          },
+          {
+            "date": "2016-06-08",
+            "time_seconds": 6034,
+            "run_id": "7yl6o73y"
+          },
+          {
+            "date": "2016-06-09",
+            "time_seconds": 6029,
+            "run_id": "8m70d0wy"
+          },
+          {
+            "date": "2016-08-06",
+            "time_seconds": 6012,
+            "run_id": "8m73rgwy"
+          }
+        ],
+        "statistics": {
+          "first_record_date": "2006-09-14",
+          "first_record_time": 7840,
+          "current_record_date": "2016-08-06",
+          "current_record_time": 6012,
+          "total_improvement_percent": 23.31632653061224,
+          "number_of_records": 36
+        }
+      },
+      {
+        "name": "70 Star",
+        "id": "7dgrrxk4",
+        "total_runs": 600,
+        "wr_progression": [
+          {
+            "date": "2004-06-24",
+            "time_seconds": 4423,
+            "run_id": "9me0xn3z"
+          },
+          {
+            "date": "2005-05-29",
+            "time_seconds": 3755,
+            "run_id": "yl9leqxy"
+          },
+          {
+            "date": "2009-09-15",
+            "time_seconds": 3406,
+            "run_id": "7ylpoxrm"
+          },
+          {
+            "date": "2009-12-26",
+            "time_seconds": 3332,
+            "run_id": "6yje19gm"
+          },
+          {
+            "date": "2010-01-29",
+            "time_seconds": 3318,
+            "run_id": "2yww0x0y"
+          },
+          {
+            "date": "2010-03-23",
+            "time_seconds": 3253,
+            "run_id": "7z085om5"
+          },
+          {
+            "date": "2010-05-08",
+            "time_seconds": 3231,
+            "run_id": "8yvn38mo"
+          },
+          {
+            "date": "2010-07-07",
+            "time_seconds": 3225,
+            "run_id": "8yvn2x6m"
+          },
+          {
+            "date": "2010-10-04",
+            "time_seconds": 3189,
+            "run_id": "1zq2g8xz"
+          },
+          {
+            "date": "2010-12-13",
+            "time_seconds": 3150,
+            "run_id": "0y6g6epm"
+          },
+          {
+            "date": "2011-01-30",
+            "time_seconds": 3126,
+            "run_id": "pm3wn04y"
+          },
+          {
+            "date": "2011-03-10",
+            "time_seconds": 3112,
+            "run_id": "7z086qem"
+          },
+          {
+            "date": "2011-04-03",
+            "time_seconds": 3080,
+            "run_id": "1zxj4kyx"
+          },
+          {
+            "date": "2011-08-22",
+            "time_seconds": 3068,
+            "run_id": "1zxj6q5y"
+          },
+          {
+            "date": "2011-08-31",
+            "time_seconds": 3036,
+            "run_id": "9mr04vdm"
+          },
+          {
+            "date": "2011-10-25",
+            "time_seconds": 3014,
+            "run_id": "8yvng8mo"
+          },
+          {
+            "date": "2012-03-02",
+            "time_seconds": 2982,
+            "run_id": "pm3wdgy0"
+          },
+          {
+            "date": "2012-06-14",
+            "time_seconds": 2974,
+            "run_id": "6yje6qdm"
+          },
+          {
+            "date": "2012-11-18",
+            "time_seconds": 2966,
+            "run_id": "0zn93g7y"
+          },
+          {
+            "date": "2012-11-20",
+            "time_seconds": 2949,
+            "run_id": "1zxjvkyx"
+          },
+          {
+            "date": "2013-05-21",
+            "time_seconds": 2948,
+            "run_id": "emkoo1z6"
+          },
+          {
+            "date": "2013-09-01",
+            "time_seconds": 2908,
+            "run_id": "nz1lv6jm"
+          },
+          {
+            "date": "2016-02-04",
+            "time_seconds": 2900,
+            "run_id": "9mr0q8mq"
+          }
+        ],
+        "statistics": {
+          "first_record_date": "2004-06-24",
+          "first_record_time": 4423,
+          "current_record_date": "2016-02-04",
+          "current_record_time": 2900,
+          "total_improvement_percent": 34.43364232421433,
+          "number_of_records": 23
+        }
+      },
+      {
+        "name": "16 Star",
+        "id": "n2y55mko",
+        "total_runs": 600,
+        "wr_progression": [
+          {
+            "date": "2004-06-19",
+            "time_seconds": 1620,
+            "run_id": "wzpp4kgz"
+          },
+          {
+            "date": "2004-11-06",
+            "time_seconds": 1315,
+            "run_id": "yodde8dm"
+          },
+          {
+            "date": "2005-05-28",
+            "time_seconds": 1246,
+            "run_id": "9yoojqdy"
+          },
+          {
+            "date": "2009-08-11",
+            "time_seconds": 1089,
+            "run_id": "8y8oe9xm"
+          },
+          {
+            "date": "2009-08-28",
+            "time_seconds": 1083,
+            "run_id": "kz5ld0dy"
+          },
+          {
+            "date": "2009-08-29",
+            "time_seconds": 1069,
+            "run_id": "0zn904vy"
+          },
+          {
+            "date": "2009-09-16",
+            "time_seconds": 1063,
+            "run_id": "pm3w7n6y"
+          },
+          {
+            "date": "2009-09-19",
+            "time_seconds": 1057,
+            "run_id": "dy4j72qy"
+          },
+          {
+            "date": "2009-09-24",
+            "time_seconds": 1050,
+            "run_id": "1zq2vg9z"
+          },
+          {
+            "date": "2009-09-27",
+            "time_seconds": 1045,
+            "run_id": "wzpk1d8y"
+          },
+          {
+            "date": "2009-09-29",
+            "time_seconds": 1039,
+            "run_id": "7ylpq1km"
+          },
+          {
+            "date": "2009-12-10",
+            "time_seconds": 1037,
+            "run_id": "9men719m"
+          },
+          {
+            "date": "2010-01-03",
+            "time_seconds": 1029,
+            "run_id": "pzgjgqvz"
+          },
+          {
+            "date": "2010-02-03",
+            "time_seconds": 1025,
+            "run_id": "6yjegd3m"
+          },
+          {
+            "date": "2010-02-26",
+            "time_seconds": 1014,
+            "run_id": "0y6gd01m"
+          },
+          {
+            "date": "2010-03-04",
+            "time_seconds": 1004,
+            "run_id": "7z0j22jy"
+          },
+          {
+            "date": "2010-06-26",
+            "time_seconds": 1001,
+            "run_id": "7z08rp4m"
+          },
+          {
+            "date": "2011-01-08",
+            "time_seconds": 981,
+            "run_id": "8yvn104m"
+          },
+          {
+            "date": "2011-01-20",
+            "time_seconds": 975,
+            "run_id": "8y8od85m"
+          },
+          {
+            "date": "2011-04-11",
+            "time_seconds": 966,
+            "run_id": "oy2nxp6y"
+          },
+          {
+            "date": "2011-08-11",
+            "time_seconds": 954.28,
+            "run_id": "emkogk5z"
+          },
+          {
+            "date": "2012-02-17",
+            "time_seconds": 952.91,
+            "run_id": "kz5lr2ey"
+          },
+          {
+            "date": "2013-04-18",
+            "time_seconds": 944.64,
+            "run_id": "8y8od8nm"
+          },
+          {
+            "date": "2015-01-18",
+            "time_seconds": 935.76,
+            "run_id": "9mrqdq8y"
+          }
+        ],
+        "statistics": {
+          "first_record_date": "2004-06-19",
+          "first_record_time": 1620,
+          "current_record_date": "2015-01-18",
+          "current_record_time": 935.76,
+          "total_improvement_percent": 42.23703703703704,
+          "number_of_records": 24
+        }
+      }
+    ]
+  },
+  {
+    "name": "Minecraft: Java Edition",
+    "id": "j1npme6p",
+    "categories": [
+      {
+        "name": "Any% Glitchless",
+        "id": "mkeyl926",
+        "total_runs": 600,
+        "wr_progression": [
+          {
+            "date": "2013-02-13",
+            "time_seconds": 10327,
+            "run_id": "z5oqv8ny"
+          },
+          {
+            "date": "2013-02-18",
+            "time_seconds": 4121,
+            "run_id": "mk46ep1y"
+          },
+          {
+            "date": "2013-04-22",
+            "time_seconds": 4043,
+            "run_id": "y23o0w9m"
+          },
+          {
+            "date": "2014-03-08",
+            "time_seconds": 2707,
+            "run_id": "m75v1l4z"
+          },
+          {
+            "date": "2014-04-06",
+            "time_seconds": 2603,
+            "run_id": "dy43lqnz"
+          },
+          {
+            "date": "2014-04-12",
+            "time_seconds": 2263,
+            "run_id": "yd0o84vz"
+          },
+          {
+            "date": "2015-01-11",
+            "time_seconds": 1656,
+            "run_id": "7z03qp4z"
+          },
+          {
+            "date": "2015-01-22",
+            "time_seconds": 858,
+            "run_id": "0y6pe01m"
+          },
+          {
+            "date": "2015-03-08",
+            "time_seconds": 810.13,
+            "run_id": "8m7p4l0m"
+          },
+          {
+            "date": "2015-03-10",
+            "time_seconds": 798.56,
+            "run_id": "oy2qo2wy"
+          },
+          {
+            "date": "2015-03-11",
+            "time_seconds": 748.44,
+            "run_id": "9mr8g52y"
+          },
+          {
+            "date": "2015-03-13",
+            "time_seconds": 686.3,
+            "run_id": "oy2ql66y"
+          },
+          {
+            "date": "2015-03-13",
+            "time_seconds": 644.85,
+            "run_id": "jy95o7ez"
+          },
+          {
+            "date": "2015-03-21",
+            "time_seconds": 577.243,
+            "run_id": "pzgkkrjy"
+          },
+          {
+            "date": "2015-08-09",
+            "time_seconds": 548.247,
+            "run_id": "9me9k29z"
+          },
+          {
+            "date": "2015-08-15",
+            "time_seconds": 532.64,
+            "run_id": "wzp3rdnm"
+          },
+          {
+            "date": "2015-08-17",
+            "time_seconds": 501.78,
+            "run_id": "pyd993jz"
+          },
+          {
+            "date": "2015-08-18",
+            "time_seconds": 448.48,
+            "run_id": "9mr44d7z"
+          },
+          {
+            "date": "2017-03-27",
+            "time_seconds": 447.83,
+            "run_id": "7ylgw5km"
+          },
+          {
+            "date": "2017-03-28",
+            "time_seconds": 431.86,
+            "run_id": "7z0vgq8y"
+          },
+          {
+            "date": "2019-04-19",
+            "time_seconds": 421.69,
+            "run_id": "y897v3wm"
+          },
+          {
+            "date": "2019-04-19",
+            "time_seconds": 407.75,
+            "run_id": "yo2w93jz"
+          },
+          {
+            "date": "2019-04-23",
+            "time_seconds": 357.533,
+            "run_id": "yo2wpedz"
+          },
+          {
+            "date": "2019-07-20",
+            "time_seconds": 329.55,
+            "run_id": "yv315p4z"
+          },
+          {
+            "date": "2020-01-30",
+            "time_seconds": 313.467,
+            "run_id": "znr5rw9y"
+          },
+          {
+            "date": "2020-02-10",
+            "time_seconds": 296.7,
+            "run_id": "y2161x6z"
+          }
+        ],
+        "statistics": {
+          "first_record_date": "2013-02-13",
+          "first_record_time": 10327,
+          "current_record_date": "2020-02-10",
+          "current_record_time": 296.7,
+          "total_improvement_percent": 97.12694877505568,
+          "number_of_records": 26
+        }
+      },
+      {
+        "name": "Any%",
+        "id": "wkpn0vdr",
+        "total_runs": 405,
+        "wr_progression": [
+          {
+            "date": "2013-05-13",
+            "time_seconds": 3824,
+            "run_id": "2ywpx3pz"
+          },
+          {
+            "date": "2013-05-19",
+            "time_seconds": 2514,
+            "run_id": "6yj49p3y"
+          },
+          {
+            "date": "2014-01-11",
+            "time_seconds": 916,
+            "run_id": "0zn4xv8m"
+          },
+          {
+            "date": "2014-06-11",
+            "time_seconds": 659,
+            "run_id": "wzp0xpgm"
+          },
+          {
+            "date": "2014-08-23",
+            "time_seconds": 525.4,
+            "run_id": "zqwr7n1z"
+          },
+          {
+            "date": "2014-09-09",
+            "time_seconds": 491,
+            "run_id": "pyd3l2jz"
+          },
+          {
+            "date": "2014-10-13",
+            "time_seconds": 444.4,
+            "run_id": "y8218lxy"
+          },
+          {
+            "date": "2015-02-20",
+            "time_seconds": 371,
+            "run_id": "emk91q1z"
+          },
+          {
+            "date": "2015-02-24",
+            "time_seconds": 370.6,
+            "run_id": "9mr8x2dy"
+          },
+          {
+            "date": "2015-03-12",
+            "time_seconds": 366.85,
+            "run_id": "9me8rl8m"
+          },
+          {
+            "date": "2015-03-22",
+            "time_seconds": 327,
+            "run_id": "nz1j54rz"
+          },
+          {
+            "date": "2015-04-22",
+            "time_seconds": 326.55,
+            "run_id": "1zxk08qm"
+          },
+          {
+            "date": "2015-04-27",
+            "time_seconds": 247.4,
+            "run_id": "9yojgv0m"
+          },
+          {
+            "date": "2017-12-04",
+            "time_seconds": 200.933,
+            "run_id": "ydqg430m"
+          },
+          {
+            "date": "2017-12-10",
+            "time_seconds": 196.5,
+            "run_id": "yw1rep2z"
+          },
+          {
+            "date": "2017-12-13",
+            "time_seconds": 189.05,
+            "run_id": "mekl6v0m"
+          },
+          {
+            "date": "2017-12-14",
+            "time_seconds": 151.4,
+            "run_id": "y45o2qqm"
+          },
+          {
+            "date": "2021-05-20",
+            "time_seconds": 125.65,
+            "run_id": "ydrwrnxz"
+          },
+          {
+            "date": "2022-03-04",
+            "time_seconds": 112.133,
+            "run_id": "zgd61wnz"
+          },
+          {
+            "date": "2022-03-17",
+            "time_seconds": 79.331,
+            "run_id": "ywj7kwpz"
+          },
+          {
+            "date": "2022-09-30",
+            "time_seconds": 67.604,
+            "run_id": "yod0vp1m"
+          },
+          {
+            "date": "2024-03-13",
+            "time_seconds": 61.714,
+            "run_id": "mrv9j58z"
+          },
+          {
+            "date": "2024-12-23",
+            "time_seconds": 57.632,
+            "run_id": "y2n1lw5y"
+          },
+          {
+            "date": "2025-06-09",
+            "time_seconds": 57.097,
+            "run_id": "zg6glwdm"
+          },
+          {
+            "date": "2025-06-10",
+            "time_seconds": 57.019,
+            "run_id": "y28x4lwy"
+          },
+          {
+            "date": "2025-06-11",
+            "time_seconds": 56.041,
+            "run_id": "z00rvwjz"
+          },
+          {
+            "date": "2025-06-11",
+            "time_seconds": 51.897,
+            "run_id": "mkw54kvm"
+          },
+          {
+            "date": "2025-12-12",
+            "time_seconds": 48.971,
+            "run_id": "zg92dlvm"
+          },
+          {
+            "date": "2025-12-12",
+            "time_seconds": 47.715,
+            "run_id": "ydogwnwz"
+          },
+          {
+            "date": "2025-12-12",
+            "time_seconds": 43.526,
+            "run_id": "mr5o4g8y"
+          },
+          {
+            "date": "2025-12-13",
+            "time_seconds": 39.742,
+            "run_id": "z0knr1jm"
+          },
+          {
+            "date": "2025-12-13",
+            "time_seconds": 34.749,
+            "run_id": "yo5lrdjz"
+          },
+          {
+            "date": "2025-12-14",
+            "time_seconds": 33.089,
+            "run_id": "y2rje37m"
+          },
+          {
+            "date": "2025-12-22",
+            "time_seconds": 31.852,
+            "run_id": "mkr0xgxz"
+          }
+        ],
+        "statistics": {
+          "first_record_date": "2013-05-13",
+          "first_record_time": 3824,
+          "current_record_date": "2025-12-22",
+          "current_record_time": 31.852,
+          "total_improvement_percent": 99.16705020920502,
+          "number_of_records": 34
+        }
+      },
+      {
+        "name": "All Achievements",
+        "id": "wk63eek1",
+        "total_runs": 111,
+        "wr_progression": [
+          {
+            "date": "2015-03-04",
+            "time_seconds": 4261.5,
+            "run_id": "7yl429xm"
+          },
+          {
+            "date": "2015-03-05",
+            "time_seconds": 3562,
+            "run_id": "6yj4re3y"
+          },
+          {
+            "date": "2015-03-17",
+            "time_seconds": 3228,
+            "run_id": "8m7q9v0z"
+          },
+          {
+            "date": "2015-04-01",
+            "time_seconds": 2623.167,
+            "run_id": "y216kv7z"
+          },
+          {
+            "date": "2018-01-23",
+            "time_seconds": 2538,
+            "run_id": "yo401kjm"
+          },
+          {
+            "date": "2018-06-10",
+            "time_seconds": 2360,
+            "run_id": "m3od5kgm"
+          },
+          {
+            "date": "2018-08-05",
+            "time_seconds": 2237,
+            "run_id": "y6pr7ppm"
+          },
+          {
+            "date": "2019-12-30",
+            "time_seconds": 2210.05,
+            "run_id": "y95d932z"
+          },
+          {
+            "date": "2020-01-25",
+            "time_seconds": 2088,
+            "run_id": "zxk03ngm"
+          },
+          {
+            "date": "2020-01-27",
+            "time_seconds": 2058.55,
+            "run_id": "mk2wrn5m"
+          },
+          {
+            "date": "2020-02-01",
+            "time_seconds": 1974,
+            "run_id": "y6l8rqpy"
+          },
+          {
+            "date": "2020-02-10",
+            "time_seconds": 1962,
+            "run_id": "mexdvw0z"
+          },
+          {
+            "date": "2020-02-11",
+            "time_seconds": 1906,
+            "run_id": "m318504z"
+          },
+          {
+            "date": "2020-02-26",
+            "time_seconds": 1705,
+            "run_id": "z1j4llrz"
+          },
+          {
+            "date": "2020-03-07",
+            "time_seconds": 1641,
+            "run_id": "zqrl0w9y"
+          },
+          {
+            "date": "2020-03-13",
+            "time_seconds": 1470,
+            "run_id": "yoj1vn5m"
+          },
+          {
+            "date": "2020-03-16",
+            "time_seconds": 1270,
+            "run_id": "yd6koexz"
+          },
+          {
+            "date": "2020-04-21",
+            "time_seconds": 1255,
+            "run_id": "y4wenw2m"
+          },
+          {
+            "date": "2020-08-19",
+            "time_seconds": 1214,
+            "run_id": "m7g4x59m"
+          }
+        ],
+        "statistics": {
+          "first_record_date": "2015-03-04",
+          "first_record_time": 4261.5,
+          "current_record_date": "2020-08-19",
+          "current_record_time": 1214,
+          "total_improvement_percent": 71.51237827056201,
+          "number_of_records": 19
+        }
+      }
+    ]
+  },
+  {
+    "name": "Portal",
+    "id": "4pd0n31e",
+    "categories": [
+      {
+        "name": "Out of Bounds",
+        "id": "lvdowokp",
+        "total_runs": 600,
+        "wr_progression": [
+          {
+            "date": "2012-04-10",
+            "time_seconds": 3432,
+            "run_id": "pyd61rwz"
+          },
+          {
+            "date": "2013-11-03",
+            "time_seconds": 850,
+            "run_id": "0zn2gk3z"
+          },
+          {
+            "date": "2013-12-20",
+            "time_seconds": 598.875,
+            "run_id": "emk3x3z6"
+          },
+          {
+            "date": "2014-04-11",
+            "time_seconds": 587.655,
+            "run_id": "nz150jye"
+          },
+          {
+            "date": "2014-06-01",
+            "time_seconds": 533.61,
+            "run_id": "2yw852y4"
+          },
+          {
+            "date": "2014-10-17",
+            "time_seconds": 531.45,
+            "run_id": "wzp9dgmq"
+          },
+          {
+            "date": "2014-10-19",
+            "time_seconds": 528.3,
+            "run_id": "2yw3n3m4"
+          },
+          {
+            "date": "2015-01-19",
+            "time_seconds": 528.2,
+            "run_id": "0zn8gg3z"
+          },
+          {
+            "date": "2015-01-23",
+            "time_seconds": 525.3,
+            "run_id": "8y8q5ony"
+          },
+          {
+            "date": "2015-02-21",
+            "time_seconds": 521.82,
+            "run_id": "oy2qg1wy"
+          },
+          {
+            "date": "2015-02-24",
+            "time_seconds": 520.65,
+            "run_id": "7z03dn4z"
+          },
+          {
+            "date": "2015-03-07",
+            "time_seconds": 520.36,
+            "run_id": "pzg70vjz"
+          },
+          {
+            "date": "2015-03-08",
+            "time_seconds": 519.39,
+            "run_id": "nz1149gz"
+          },
+          {
+            "date": "2015-03-11",
+            "time_seconds": 516.31,
+            "run_id": "8m7pkrem"
+          },
+          {
+            "date": "2015-03-30",
+            "time_seconds": 514.39,
+            "run_id": "nz1j2jgz"
+          },
+          {
+            "date": "2015-04-08",
+            "time_seconds": 512.5,
+            "run_id": "8yv38wxz"
+          },
+          {
+            "date": "2015-04-22",
+            "time_seconds": 511.51,
+            "run_id": "nz1j6ggz"
+          },
+          {
+            "date": "2016-05-01",
+            "time_seconds": 506.67,
+            "run_id": "2ywvq8nz"
+          },
+          {
+            "date": "2016-10-03",
+            "time_seconds": 503.95,
+            "run_id": "2ywxoj3m"
+          },
+          {
+            "date": "2016-12-08",
+            "time_seconds": 493.56,
+            "run_id": "kz565rny"
+          },
+          {
+            "date": "2017-04-10",
+            "time_seconds": 477.82,
+            "run_id": "y8q36jny"
+          },
+          {
+            "date": "2017-05-17",
+            "time_seconds": 475.11,
+            "run_id": "y9729w2m"
+          },
+          {
+            "date": "2017-06-29",
+            "time_seconds": 474.09,
+            "run_id": "yo4kl67m"
+          },
+          {
+            "date": "2017-06-30",
+            "time_seconds": 469.965,
+            "run_id": "mekoen2m"
+          },
+          {
+            "date": "2017-07-02",
+            "time_seconds": 457.35,
+            "run_id": "zq6w2v8y"
+          },
+          {
+            "date": "2017-07-02",
+            "time_seconds": 455.37,
+            "run_id": "yvg6lv6y"
+          },
+          {
+            "date": "2017-07-04",
+            "time_seconds": 453.69,
+            "run_id": "yo4kq0dm"
+          },
+          {
+            "date": "2017-07-04",
+            "time_seconds": 448.68,
+            "run_id": "yvg671ey"
+          },
+          {
+            "date": "2017-07-16",
+            "time_seconds": 447.19,
+            "run_id": "ydq0woqm"
+          },
+          {
+            "date": "2018-04-03",
+            "time_seconds": 441.87,
+            "run_id": "yw17ej3z"
+          },
+          {
+            "date": "2018-11-07",
+            "time_seconds": 441.34,
+            "run_id": "mr8r4gdy"
+          },
+          {
+            "date": "2018-11-13",
+            "time_seconds": 436.74,
+            "run_id": "y92xdonz"
+          },
+          {
+            "date": "2018-12-18",
+            "time_seconds": 434.5,
+            "run_id": "y43o0rnz"
+          },
+          {
+            "date": "2018-12-23",
+            "time_seconds": 432.255,
+            "run_id": "y92k7qez"
+          },
+          {
+            "date": "2018-12-29",
+            "time_seconds": 427.92,
+            "run_id": "yl4l75km"
+          },
+          {
+            "date": "2019-04-13",
+            "time_seconds": 426.48,
+            "run_id": "y894l6xm"
+          },
+          {
+            "date": "2019-05-28",
+            "time_seconds": 423.315,
+            "run_id": "mrejgo8y"
+          },
+          {
+            "date": "2019-05-29",
+            "time_seconds": 421.92,
+            "run_id": "y81q3r1z"
+          },
+          {
+            "date": "2019-05-30",
+            "time_seconds": 418.2,
+            "run_id": "y95774nz"
+          }
+        ],
+        "statistics": {
+          "first_record_date": "2012-04-10",
+          "first_record_time": 3432,
+          "current_record_date": "2019-05-30",
+          "current_record_time": 418.2,
+          "total_improvement_percent": 87.81468531468532,
+          "number_of_records": 39
+        }
+      },
+      {
+        "name": "Inbounds",
+        "id": "7wkp6v2r",
+        "total_runs": 600,
+        "wr_progression": [
+          {
+            "date": "2013-01-23",
+            "time_seconds": 947,
+            "run_id": "8m7ge5m0"
+          },
+          {
+            "date": "2014-01-05",
+            "time_seconds": 932,
+            "run_id": "9yokx1zx"
+          },
+          {
+            "date": "2014-06-25",
+            "time_seconds": 786,
+            "run_id": "7ylkdxzp"
+          },
+          {
+            "date": "2014-08-01",
+            "time_seconds": 783.45,
+            "run_id": "2yw8gny4"
+          },
+          {
+            "date": "2014-08-16",
+            "time_seconds": 767,
+            "run_id": "6yj3rnzd"
+          },
+          {
+            "date": "2014-08-16",
+            "time_seconds": 759.735,
+            "run_id": "8y82wxy1"
+          },
+          {
+            "date": "2014-09-07",
+            "time_seconds": 755.16,
+            "run_id": "0zn1p3mn"
+          },
+          {
+            "date": "2014-09-15",
+            "time_seconds": 749.9,
+            "run_id": "1zxgrgyx"
+          },
+          {
+            "date": "2014-10-31",
+            "time_seconds": 746.325,
+            "run_id": "dy4xj3zl"
+          },
+          {
+            "date": "2014-12-11",
+            "time_seconds": 739.755,
+            "run_id": "0y67r5pm"
+          },
+          {
+            "date": "2014-12-21",
+            "time_seconds": 739.2,
+            "run_id": "oy230r7m"
+          },
+          {
+            "date": "2015-01-02",
+            "time_seconds": 734.7,
+            "run_id": "wzpq6w8y"
+          },
+          {
+            "date": "2015-01-10",
+            "time_seconds": 730.9,
+            "run_id": "pydqnpvm"
+          },
+          {
+            "date": "2015-02-11",
+            "time_seconds": 725.67,
+            "run_id": "emk934vz"
+          },
+          {
+            "date": "2015-07-31",
+            "time_seconds": 722.895,
+            "run_id": "nz1o747m"
+          },
+          {
+            "date": "2015-09-04",
+            "time_seconds": 720.9,
+            "run_id": "7z06d89z"
+          },
+          {
+            "date": "2015-10-05",
+            "time_seconds": 720.4,
+            "run_id": "1zxg6rqy"
+          },
+          {
+            "date": "2015-10-05",
+            "time_seconds": 712.66,
+            "run_id": "dy4rr5dz"
+          }
+        ],
+        "statistics": {
+          "first_record_date": "2013-01-23",
+          "first_record_time": 947,
+          "current_record_date": "2015-10-05",
+          "current_record_time": 712.66,
+          "total_improvement_percent": 24.745512143611403,
+          "number_of_records": 18
+        }
+      },
+      {
+        "name": "Inbounds No SLA",
+        "id": "rkl7w46d",
+        "total_runs": 178,
+        "wr_progression": [
+          {
+            "date": "2021-03-28",
+            "time_seconds": 717.225,
+            "run_id": "z5r4wkjy"
+          },
+          {
+            "date": "2021-06-28",
+            "time_seconds": 689.235,
+            "run_id": "mr1d29dz"
+          },
+          {
+            "date": "2021-09-28",
+            "time_seconds": 675.66,
+            "run_id": "zn0v0nly"
+          },
+          {
+            "date": "2021-12-22",
+            "time_seconds": 674.145,
+            "run_id": "zq0w6ery"
+          },
+          {
+            "date": "2022-01-27",
+            "time_seconds": 670.96,
+            "run_id": "mr6oekgm"
+          },
+          {
+            "date": "2022-01-28",
+            "time_seconds": 658.96,
+            "run_id": "m7w2739z"
+          },
+          {
+            "date": "2022-01-29",
+            "time_seconds": 646.44,
+            "run_id": "y6no2qpz"
+          },
+          {
+            "date": "2022-09-28",
+            "time_seconds": 639.495,
+            "run_id": "yl1lxo3m"
+          },
+          {
+            "date": "2024-03-08",
+            "time_seconds": 636.015,
+            "run_id": "y9j0n92m"
+          },
+          {
+            "date": "2024-10-07",
+            "time_seconds": 620.205,
+            "run_id": "y4ll6gnz"
+          },
+          {
+            "date": "2024-12-27",
+            "time_seconds": 611.37,
+            "run_id": "yoqkl8jz"
+          },
+          {
+            "date": "2025-04-21",
+            "time_seconds": 608.85,
+            "run_id": "m3v93lgz"
+          },
+          {
+            "date": "2025-04-30",
+            "time_seconds": 602.475,
+            "run_id": "y283oqjy"
+          },
+          {
+            "date": "2025-05-01",
+            "time_seconds": 597.12,
+            "run_id": "me28vq0m"
+          },
+          {
+            "date": "2025-05-09",
+            "time_seconds": 595.65,
+            "run_id": "zpo44p8m"
+          },
+          {
+            "date": "2025-05-13",
+            "time_seconds": 584.835,
+            "run_id": "yd464ejy"
+          },
+          {
+            "date": "2025-05-14",
+            "time_seconds": 574.845,
+            "run_id": "m7lqkq5y"
+          },
+          {
+            "date": "2025-05-16",
+            "time_seconds": 567.435,
+            "run_id": "z0051o8z"
+          },
+          {
+            "date": "2025-11-01",
+            "time_seconds": 567.21,
+            "run_id": "yw50pk9y"
+          },
+          {
+            "date": "2025-11-09",
+            "time_seconds": 566.28,
+            "run_id": "zp5187gy"
+          },
+          {
+            "date": "2025-11-12",
+            "time_seconds": 557.685,
+            "run_id": "m7vd4wem"
+          },
+          {
+            "date": "2025-12-01",
+            "time_seconds": 550.65,
+            "run_id": "y680g11z"
+          }
+        ],
+        "statistics": {
+          "first_record_date": "2021-03-28",
+          "first_record_time": 717.225,
+          "current_record_date": "2025-12-01",
+          "current_record_time": 550.65,
+          "total_improvement_percent": 23.22492941545541,
+          "number_of_records": 22
+        }
+      }
+    ]
+  },
+  {
+    "name": "Celeste",
+    "id": "o1y9j9v6",
+    "categories": [
+      {
+        "name": "Any%",
+        "id": "7kjpl1gk",
+        "total_runs": 600,
+        "wr_progression": [
+          {
+            "date": "2018-01-26",
+            "time_seconds": 7537,
+            "run_id": "y8qp1vny"
+          },
+          {
+            "date": "2018-01-26",
+            "time_seconds": 3584,
+            "run_id": "yl9xk42y"
+          },
+          {
+            "date": "2018-01-27",
+            "time_seconds": 3459,
+            "run_id": "yl9xvq3y"
+          },
+          {
+            "date": "2018-01-27",
+            "time_seconds": 3307,
+            "run_id": "zn8x3g3z"
+          },
+          {
+            "date": "2018-01-27",
+            "time_seconds": 3288.123,
+            "run_id": "zn8xoe8z"
+          },
+          {
+            "date": "2018-01-28",
+            "time_seconds": 3104.761,
+            "run_id": "zq6qv78y"
+          },
+          {
+            "date": "2018-01-29",
+            "time_seconds": 2993,
+            "run_id": "mrqxn44y"
+          },
+          {
+            "date": "2018-01-29",
+            "time_seconds": 2853,
+            "run_id": "zpqx2nxy"
+          },
+          {
+            "date": "2018-01-30",
+            "time_seconds": 2781,
+            "run_id": "y23wpw6m"
+          },
+          {
+            "date": "2018-01-31",
+            "time_seconds": 2601.476,
+            "run_id": "y67eonqm"
+          },
+          {
+            "date": "2018-02-01",
+            "time_seconds": 2515.201,
+            "run_id": "zpqxw7gy"
+          },
+          {
+            "date": "2018-02-02",
+            "time_seconds": 2432.734,
+            "run_id": "ydqlnjqm"
+          },
+          {
+            "date": "2018-02-03",
+            "time_seconds": 2390.302,
+            "run_id": "m79oe09y"
+          },
+          {
+            "date": "2018-02-04",
+            "time_seconds": 2370.667,
+            "run_id": "yvgx50oy"
+          },
+          {
+            "date": "2018-02-06",
+            "time_seconds": 2340.407,
+            "run_id": "y67ekljm"
+          },
+          {
+            "date": "2018-02-09",
+            "time_seconds": 2336.344,
+            "run_id": "y67glj6m"
+          },
+          {
+            "date": "2018-02-09",
+            "time_seconds": 2294.949,
+            "run_id": "yvgn3w8y"
+          },
+          {
+            "date": "2018-02-10",
+            "time_seconds": 2281.264,
+            "run_id": "yl9pr73y"
+          },
+          {
+            "date": "2018-02-12",
+            "time_seconds": 2274.141,
+            "run_id": "yvgn88ey"
+          },
+          {
+            "date": "2018-02-13",
+            "time_seconds": 2260.983,
+            "run_id": "zxvj3gky"
+          },
+          {
+            "date": "2018-02-14",
+            "time_seconds": 2212.397,
+            "run_id": "zn892j9z"
+          },
+          {
+            "date": "2018-02-16",
+            "time_seconds": 2189.413,
+            "run_id": "y23n6g7m"
+          },
+          {
+            "date": "2018-02-19",
+            "time_seconds": 2172.107,
+            "run_id": "yw1215nz"
+          },
+          {
+            "date": "2018-02-20",
+            "time_seconds": 2140.912,
+            "run_id": "zxv02n5y"
+          },
+          {
+            "date": "2018-02-23",
+            "time_seconds": 2132.922,
+            "run_id": "m79l7xwy"
+          },
+          {
+            "date": "2018-02-25",
+            "time_seconds": 2127.499,
+            "run_id": "ydq4glwm"
+          },
+          {
+            "date": "2018-02-25",
+            "time_seconds": 2120.087,
+            "run_id": "zgn6e8ny"
+          },
+          {
+            "date": "2018-02-26",
+            "time_seconds": 2115.123,
+            "run_id": "m3dvkl6z"
+          },
+          {
+            "date": "2018-02-27",
+            "time_seconds": 2079.474,
+            "run_id": "yjkqogom"
+          },
+          {
+            "date": "2018-03-01",
+            "time_seconds": 2062.372,
+            "run_id": "zn8ggpvz"
+          },
+          {
+            "date": "2018-03-04",
+            "time_seconds": 2050.319,
+            "run_id": "m3d29qdz"
+          }
+        ],
+        "statistics": {
+          "first_record_date": "2018-01-26",
+          "first_record_time": 7537,
+          "current_record_date": "2018-03-04",
+          "current_record_time": 2050.319,
+          "total_improvement_percent": 72.79661669099112,
+          "number_of_records": 31
+        }
+      },
+      {
+        "name": "All Red Berries",
+        "id": "jdz8oprd",
+        "total_runs": 600,
+        "wr_progression": [
+          {
+            "date": "2018-02-05",
+            "time_seconds": 10981.949,
+            "run_id": "zxvx1o5y"
+          },
+          {
+            "date": "2018-02-08",
+            "time_seconds": 8312.592,
+            "run_id": "m3dwo7wz"
+          },
+          {
+            "date": "2018-02-10",
+            "time_seconds": 6501.429,
+            "run_id": "ydqv07xm"
+          },
+          {
+            "date": "2018-02-12",
+            "time_seconds": 6031.957,
+            "run_id": "z13vqowm"
+          },
+          {
+            "date": "2018-02-12",
+            "time_seconds": 5701.715,
+            "run_id": "zgnjeney"
+          },
+          {
+            "date": "2018-02-25",
+            "time_seconds": 4776.048,
+            "run_id": "mek2l08m"
+          },
+          {
+            "date": "2018-02-26",
+            "time_seconds": 4523.53,
+            "run_id": "y8qgk8wy"
+          },
+          {
+            "date": "2018-02-28",
+            "time_seconds": 4496.075,
+            "run_id": "y238wx7m"
+          },
+          {
+            "date": "2018-03-05",
+            "time_seconds": 4352.731,
+            "run_id": "z1373g9m"
+          },
+          {
+            "date": "2018-03-08",
+            "time_seconds": 4211.597,
+            "run_id": "yw15d53z"
+          },
+          {
+            "date": "2018-04-06",
+            "time_seconds": 4177.563,
+            "run_id": "zgn0v50y"
+          },
+          {
+            "date": "2018-04-06",
+            "time_seconds": 4153.457,
+            "run_id": "m79480ey"
+          },
+          {
+            "date": "2018-04-07",
+            "time_seconds": 4013.955,
+            "run_id": "y8q4e9wy"
+          },
+          {
+            "date": "2018-04-21",
+            "time_seconds": 3996.768,
+            "run_id": "zpqjrqry"
+          },
+          {
+            "date": "2018-04-27",
+            "time_seconds": 3687.589,
+            "run_id": "mrqgo94y"
+          },
+          {
+            "date": "2018-05-27",
+            "time_seconds": 3599.155,
+            "run_id": "y2q971wy"
+          },
+          {
+            "date": "2018-05-29",
+            "time_seconds": 3550.229,
+            "run_id": "y6p30ljm"
+          },
+          {
+            "date": "2018-06-02",
+            "time_seconds": 3509.548,
+            "run_id": "y6p3e6qm"
+          },
+          {
+            "date": "2018-06-09",
+            "time_seconds": 3445.118,
+            "run_id": "zn48r07m"
+          },
+          {
+            "date": "2018-06-20",
+            "time_seconds": 3418.836,
+            "run_id": "me8kpe8m"
+          },
+          {
+            "date": "2018-06-28",
+            "time_seconds": 3393.149,
+            "run_id": "y92239vz"
+          },
+          {
+            "date": "2018-07-06",
+            "time_seconds": 3347.725,
+            "run_id": "z111ed9z"
+          },
+          {
+            "date": "2018-07-26",
+            "time_seconds": 3329.11,
+            "run_id": "y43wrg3z"
+          },
+          {
+            "date": "2018-07-29",
+            "time_seconds": 3297.252,
+            "run_id": "mk93vnlz"
+          },
+          {
+            "date": "2018-08-03",
+            "time_seconds": 3295.093,
+            "run_id": "yvj6dx4y"
+          },
+          {
+            "date": "2018-08-16",
+            "time_seconds": 3258.033,
+            "run_id": "yl4v5o2m"
+          },
+          {
+            "date": "2018-08-26",
+            "time_seconds": 3222.435,
+            "run_id": "yl4o7pxm"
+          },
+          {
+            "date": "2018-09-20",
+            "time_seconds": 3202.443,
+            "run_id": "mk958dlz"
+          },
+          {
+            "date": "2018-09-29",
+            "time_seconds": 3172.982,
+            "run_id": "yvjoe04y"
+          },
+          {
+            "date": "2018-12-30",
+            "time_seconds": 3160.929,
+            "run_id": "y6pqxjjm"
+          },
+          {
+            "date": "2019-01-01",
+            "time_seconds": 3148.859,
+            "run_id": "yo2o0p0z"
+          },
+          {
+            "date": "2019-01-05",
+            "time_seconds": 3143.453,
+            "run_id": "yo2owjjz"
+          },
+          {
+            "date": "2019-01-06",
+            "time_seconds": 3125.059,
+            "run_id": "mr8vjk7y"
+          },
+          {
+            "date": "2019-01-08",
+            "time_seconds": 3115.794,
+            "run_id": "zn424nvm"
+          },
+          {
+            "date": "2019-01-18",
+            "time_seconds": 3097.4,
+            "run_id": "y6pv806m"
+          },
+          {
+            "date": "2019-03-02",
+            "time_seconds": 3086.231,
+            "run_id": "m7plkk5m"
+          },
+          {
+            "date": "2019-03-03",
+            "time_seconds": 3068.874,
+            "run_id": "yl4535xm"
+          },
+          {
+            "date": "2019-03-06",
+            "time_seconds": 3066.103,
+            "run_id": "mr851j8y"
+          },
+          {
+            "date": "2019-03-09",
+            "time_seconds": 3031.236,
+            "run_id": "mr85o74y"
+          },
+          {
+            "date": "2019-03-15",
+            "time_seconds": 3019.625,
+            "run_id": "me8ppd8m"
+          },
+          {
+            "date": "2019-03-23",
+            "time_seconds": 3010.003,
+            "run_id": "m3o83n6m"
+          },
+          {
+            "date": "2019-04-13",
+            "time_seconds": 2974.949,
+            "run_id": "zg701djz"
+          },
+          {
+            "date": "2019-05-13",
+            "time_seconds": 2967.979,
+            "run_id": "zx4er7ky"
+          },
+          {
+            "date": "2019-05-24",
+            "time_seconds": 2955.484,
+            "run_id": "yojvo07m"
+          },
+          {
+            "date": "2019-06-01",
+            "time_seconds": 2945.624,
+            "run_id": "yd6q5dvz"
+          },
+          {
+            "date": "2019-06-12",
+            "time_seconds": 2943.108,
+            "run_id": "yv3jgkez"
+          },
+          {
+            "date": "2019-06-16",
+            "time_seconds": 2940.303,
+            "run_id": "znr474ly"
+          },
+          {
+            "date": "2019-06-16",
+            "time_seconds": 2932.942,
+            "run_id": "yd63wrwz"
+          },
+          {
+            "date": "2019-10-15",
+            "time_seconds": 2921.603,
+            "run_id": "z1jg56gz"
+          },
+          {
+            "date": "2019-10-21",
+            "time_seconds": 2908.87,
+            "run_id": "zp4dpnrz"
+          },
+          {
+            "date": "2019-10-31",
+            "time_seconds": 2897.837,
+            "run_id": "z01n5k4y"
+          },
+          {
+            "date": "2019-11-12",
+            "time_seconds": 2890.986,
+            "run_id": "y8161qxz"
+          },
+          {
+            "date": "2019-11-13",
+            "time_seconds": 2886.073,
+            "run_id": "zqrjroxy"
+          },
+          {
+            "date": "2019-11-24",
+            "time_seconds": 2883.744,
+            "run_id": "m31q4rwz"
+          },
+          {
+            "date": "2020-03-19",
+            "time_seconds": 2832.013,
+            "run_id": "z01vqljy"
+          },
+          {
+            "date": "2021-06-15",
+            "time_seconds": 2812.514,
+            "run_id": "z0rxj0oz"
+          }
+        ],
+        "statistics": {
+          "first_record_date": "2018-02-05",
+          "first_record_time": 10981.949,
+          "current_record_date": "2021-06-15",
+          "current_record_time": 2812.514,
+          "total_improvement_percent": 74.38966434828644,
+          "number_of_records": 56
+        }
+      },
+      {
+        "name": "True Ending",
+        "id": "zdn0m372",
+        "total_runs": 480,
+        "wr_progression": [
+          {
+            "date": "2019-09-11",
+            "time_seconds": 4514.758,
+            "run_id": "mk2e203m"
+          },
+          {
+            "date": "2019-09-11",
+            "time_seconds": 3266.261,
+            "run_id": "y6lndx0y"
+          },
+          {
+            "date": "2019-09-18",
+            "time_seconds": 3037.951,
+            "run_id": "zgkd2jjy"
+          },
+          {
+            "date": "2019-09-21",
+            "time_seconds": 3010.224,
+            "run_id": "yd6wl9wz"
+          },
+          {
+            "date": "2019-09-23",
+            "time_seconds": 2972.926,
+            "run_id": "yv3q5l6z"
+          },
+          {
+            "date": "2019-10-01",
+            "time_seconds": 2936.223,
+            "run_id": "znrp143y"
+          },
+          {
+            "date": "2020-06-11",
+            "time_seconds": 2905.249,
+            "run_id": "yd518lwm"
+          },
+          {
+            "date": "2020-12-18",
+            "time_seconds": 2895.406,
+            "run_id": "mk8ox51m"
+          },
+          {
+            "date": "2021-01-01",
+            "time_seconds": 2894.862,
+            "run_id": "y6r4d5qy"
+          },
+          {
+            "date": "2021-01-12",
+            "time_seconds": 2856.102,
+            "run_id": "z06wnj8z"
+          },
+          {
+            "date": "2021-01-15",
+            "time_seconds": 2829.191,
+            "run_id": "zno8473y"
+          },
+          {
+            "date": "2021-08-21",
+            "time_seconds": 2824.992,
+            "run_id": "me46dp9y"
+          },
+          {
+            "date": "2021-12-20",
+            "time_seconds": 2801.073,
+            "run_id": "zn7r1p8m"
+          },
+          {
+            "date": "2022-01-06",
+            "time_seconds": 2792.76,
+            "run_id": "y48r1pkm"
+          },
+          {
+            "date": "2022-02-02",
+            "time_seconds": 2770.932,
+            "run_id": "zxl328kz"
+          },
+          {
+            "date": "2022-02-07",
+            "time_seconds": 2742.729,
+            "run_id": "mej0932y"
+          },
+          {
+            "date": "2022-12-27",
+            "time_seconds": 2741.607,
+            "run_id": "ywv862pz"
+          },
+          {
+            "date": "2023-01-02",
+            "time_seconds": 2733.6,
+            "run_id": "zpglgdrz"
+          },
+          {
+            "date": "2023-01-05",
+            "time_seconds": 2729.469,
+            "run_id": "zpg3qkvz"
+          },
+          {
+            "date": "2023-01-10",
+            "time_seconds": 2728.806,
+            "run_id": "z5e0ngdz"
+          },
+          {
+            "date": "2023-01-11",
+            "time_seconds": 2690.148,
+            "run_id": "yol74x5y"
+          },
+          {
+            "date": "2025-03-11",
+            "time_seconds": 2632.671,
+            "run_id": "y8oogewm"
+          },
+          {
+            "date": "2025-12-07",
+            "time_seconds": 2577.268,
+            "run_id": "z0kllv9m"
+          },
+          {
+            "date": "2025-12-07",
+            "time_seconds": 2349.247,
+            "run_id": "mep1059y"
+          }
+        ],
+        "statistics": {
+          "first_record_date": "2019-09-11",
+          "first_record_time": 4514.758,
+          "current_record_date": "2025-12-07",
+          "current_record_time": 2349.247,
+          "total_improvement_percent": 47.965162252328916,
+          "number_of_records": 24
+        }
+      }
+    ]
+  },
+  {
+    "name": "Super Mario Bros.",
+    "id": "om1m3625",
+    "categories": [
+      {
+        "name": "Any%",
+        "id": "w20p0zkn",
+        "total_runs": 600,
+        "wr_progression": [
+          {
+            "date": "2002-06-25",
+            "time_seconds": 325,
+            "run_id": "oy2x1kwm"
+          },
+          {
+            "date": "2002-07-01",
+            "time_seconds": 324,
+            "run_id": "zqe9pq5z"
+          },
+          {
+            "date": "2003-07-30",
+            "time_seconds": 317,
+            "run_id": "7z0r1x8z"
+          },
+          {
+            "date": "2004-01-01",
+            "time_seconds": 314,
+            "run_id": "0y6dlqjm"
+          },
+          {
+            "date": "2004-02-26",
+            "time_seconds": 311,
+            "run_id": "0zn1relm"
+          },
+          {
+            "date": "2004-04-23",
+            "time_seconds": 310,
+            "run_id": "6yjg3wny"
+          },
+          {
+            "date": "2004-10-09",
+            "time_seconds": 307,
+            "run_id": "7ylq0d3z"
+          },
+          {
+            "date": "2004-11-07",
+            "time_seconds": 306,
+            "run_id": "9me7xw8y"
+          },
+          {
+            "date": "2005-05-12",
+            "time_seconds": 305.846,
+            "run_id": "mk32gqxz"
+          },
+          {
+            "date": "2006-09-14",
+            "time_seconds": 305.397,
+            "run_id": "9yo7j0jm"
+          },
+          {
+            "date": "2007-04-10",
+            "time_seconds": 300.355,
+            "run_id": "wzp146rz"
+          },
+          {
+            "date": "2010-12-24",
+            "time_seconds": 299.69,
+            "run_id": "jy995jny"
+          },
+          {
+            "date": "2011-12-15",
+            "time_seconds": 298.874,
+            "run_id": "nz1rj9rm"
+          },
+          {
+            "date": "2013-01-15",
+            "time_seconds": 298.791,
+            "run_id": "emkg2p5y"
+          },
+          {
+            "date": "2013-01-19",
+            "time_seconds": 298.575,
+            "run_id": "8m7dqnwm"
+          },
+          {
+            "date": "2013-03-21",
+            "time_seconds": 298.525,
+            "run_id": "9mr1ev7z"
+          },
+          {
+            "date": "2013-05-19",
+            "time_seconds": 298.359,
+            "run_id": "1zxgkq8y"
+          },
+          {
+            "date": "2013-07-01",
+            "time_seconds": 298.159,
+            "run_id": "pm3r10qm"
+          },
+          {
+            "date": "2013-10-07",
+            "time_seconds": 298.142,
+            "run_id": "dy4r16kz"
+          },
+          {
+            "date": "2014-03-25",
+            "time_seconds": 298.092,
+            "run_id": "8yv634zo"
+          },
+          {
+            "date": "2014-06-25",
+            "time_seconds": 297.693,
+            "run_id": "8yv688zo"
+          },
+          {
+            "date": "2015-10-18",
+            "time_seconds": 297.627,
+            "run_id": "oy2xjw7m"
+          },
+          {
+            "date": "2016-01-14",
+            "time_seconds": 297.427,
+            "run_id": "wzp28wny"
+          },
+          {
+            "date": "2016-04-14",
+            "time_seconds": 297.26,
+            "run_id": "dy4xvn2z"
+          },
+          {
+            "date": "2016-08-10",
+            "time_seconds": 297.244,
+            "run_id": "9yo0jp7y"
+          },
+          {
+            "date": "2016-10-03",
+            "time_seconds": 297.194,
+            "run_id": "8y8plpwz"
+          },
+          {
+            "date": "2016-10-05",
+            "time_seconds": 296.878,
+            "run_id": "pzgo5nnm"
+          }
+        ],
+        "statistics": {
+          "first_record_date": "2002-06-25",
+          "first_record_time": 325,
+          "current_record_date": "2016-10-05",
+          "current_record_time": 296.878,
+          "total_improvement_percent": 8.65292307692308,
+          "number_of_records": 27
+        }
+      },
+      {
+        "name": "Warpless",
+        "id": "wdmz042q",
+        "total_runs": 600,
+        "wr_progression": [
+          {
+            "date": "2004-01-01",
+            "time_seconds": 1359,
+            "run_id": "7z0r1d8z"
+          },
+          {
+            "date": "2004-08-06",
+            "time_seconds": 1290,
+            "run_id": "0y6dlvjm"
+          },
+          {
+            "date": "2005-08-27",
+            "time_seconds": 1278,
+            "run_id": "8y8d1wnz"
+          },
+          {
+            "date": "2007-02-16",
+            "time_seconds": 1197,
+            "run_id": "8yv13ley"
+          },
+          {
+            "date": "2008-03-12",
+            "time_seconds": 1180,
+            "run_id": "0zn1r2lm"
+          },
+          {
+            "date": "2012-11-28",
+            "time_seconds": 1174,
+            "run_id": "7ylq0x3z"
+          },
+          {
+            "date": "2013-01-20",
+            "time_seconds": 1164,
+            "run_id": "6yj9xnzd"
+          },
+          {
+            "date": "2013-04-06",
+            "time_seconds": 1160,
+            "run_id": "pzggkonz"
+          },
+          {
+            "date": "2013-04-22",
+            "time_seconds": 1159,
+            "run_id": "9me7xg8y"
+          },
+          {
+            "date": "2013-06-22",
+            "time_seconds": 1157,
+            "run_id": "9yo7jxjm"
+          },
+          {
+            "date": "2013-06-26",
+            "time_seconds": 1156,
+            "run_id": "pydr6l0z"
+          },
+          {
+            "date": "2013-08-24",
+            "time_seconds": 1155,
+            "run_id": "jy995dny"
+          },
+          {
+            "date": "2013-11-11",
+            "time_seconds": 1152.33,
+            "run_id": "0znkr8zn"
+          },
+          {
+            "date": "2015-04-24",
+            "time_seconds": 1152.205,
+            "run_id": "1zqr519y"
+          },
+          {
+            "date": "2015-06-06",
+            "time_seconds": 1151.52,
+            "run_id": "pm350vdy"
+          },
+          {
+            "date": "2015-06-08",
+            "time_seconds": 1151.24,
+            "run_id": "pzgwovny"
+          },
+          {
+            "date": "2015-06-23",
+            "time_seconds": 1150.388,
+            "run_id": "0y65k60z"
+          },
+          {
+            "date": "2015-07-09",
+            "time_seconds": 1149.839,
+            "run_id": "pzgvgpjz"
+          },
+          {
+            "date": "2015-12-18",
+            "time_seconds": 1146.994,
+            "run_id": "pzgrogvm"
+          },
+          {
+            "date": "2016-02-09",
+            "time_seconds": 1146.246,
+            "run_id": "nz1pjw7z"
+          },
+          {
+            "date": "2016-02-15",
+            "time_seconds": 1145.896,
+            "run_id": "nz1pxrwz"
+          },
+          {
+            "date": "2016-11-15",
+            "time_seconds": 1144.382,
+            "run_id": "0zng3lvm"
+          },
+          {
+            "date": "2017-06-30",
+            "time_seconds": 1143.899,
+            "run_id": "yl9klo3y"
+          },
+          {
+            "date": "2018-01-29",
+            "time_seconds": 1142.369,
+            "run_id": "y45lqlnm"
+          }
+        ],
+        "statistics": {
+          "first_record_date": "2004-01-01",
+          "first_record_time": 1359,
+          "current_record_date": "2018-01-29",
+          "current_record_time": 1142.369,
+          "total_improvement_percent": 15.940470934510675,
+          "number_of_records": 24
+        }
+      },
+      {
+        "name": "Any% All-Stars",
+        "id": "mke8vjk6",
+        "total_runs": 582,
+        "wr_progression": [
+          {
+            "date": "2005-12-02",
+            "time_seconds": 388,
+            "run_id": "zp6el8vm"
+          },
+          {
+            "date": "2012-02-26",
+            "time_seconds": 318,
+            "run_id": "0zno447y"
+          },
+          {
+            "date": "2014-02-27",
+            "time_seconds": 305,
+            "run_id": "9mex883z"
+          },
+          {
+            "date": "2016-04-14",
+            "time_seconds": 304.831,
+            "run_id": "8y8xl6dm"
+          },
+          {
+            "date": "2016-04-25",
+            "time_seconds": 303.766,
+            "run_id": "8m72q44z"
+          },
+          {
+            "date": "2016-11-19",
+            "time_seconds": 303.52,
+            "run_id": "pyd4ee0y"
+          },
+          {
+            "date": "2016-11-24",
+            "time_seconds": 303.317,
+            "run_id": "jy9exjvz"
+          },
+          {
+            "date": "2016-11-27",
+            "time_seconds": 302.901,
+            "run_id": "dy4nke2m"
+          },
+          {
+            "date": "2017-07-15",
+            "time_seconds": 301.72,
+            "run_id": "ydq0wlxm"
+          },
+          {
+            "date": "2018-04-06",
+            "time_seconds": 301.354,
+            "run_id": "z1348orm"
+          },
+          {
+            "date": "2018-04-18",
+            "time_seconds": 300.655,
+            "run_id": "y454p62m"
+          },
+          {
+            "date": "2018-04-19",
+            "time_seconds": 300.322,
+            "run_id": "mrqgnj4y"
+          },
+          {
+            "date": "2018-04-23",
+            "time_seconds": 299.873,
+            "run_id": "yo4w711m"
+          },
+          {
+            "date": "2019-10-14",
+            "time_seconds": 299.523,
+            "run_id": "znrqk47y"
+          },
+          {
+            "date": "2020-03-26",
+            "time_seconds": 299.374,
+            "run_id": "znkw723z"
+          },
+          {
+            "date": "2020-04-18",
+            "time_seconds": 298.492,
+            "run_id": "y65l9g6z"
+          },
+          {
+            "date": "2020-04-28",
+            "time_seconds": 298.409,
+            "run_id": "yw88wnpy"
+          },
+          {
+            "date": "2020-07-05",
+            "time_seconds": 297.893,
+            "run_id": "znkevw8z"
+          },
+          {
+            "date": "2020-08-25",
+            "time_seconds": 297.627,
+            "run_id": "yv6drx4z"
+          },
+          {
+            "date": "2020-08-30",
+            "time_seconds": 297.294,
+            "run_id": "yw8l889y"
+          },
+          {
+            "date": "2021-11-14",
+            "time_seconds": 296.928,
+            "run_id": "m374766z"
+          },
+          {
+            "date": "2022-01-04",
+            "time_seconds": 296.828,
+            "run_id": "zp2149xy"
+          },
+          {
+            "date": "2022-01-23",
+            "time_seconds": 296.778,
+            "run_id": "y20e32jm"
+          },
+          {
+            "date": "2022-08-12",
+            "time_seconds": 296.645,
+            "run_id": "m3x4kn4m"
+          },
+          {
+            "date": "2023-05-21",
+            "time_seconds": 296.312,
+            "run_id": "y625xv1z"
+          },
+          {
+            "date": "2023-05-28",
+            "time_seconds": 295.78,
+            "run_id": "m3qgk7gy"
+          }
+        ],
+        "statistics": {
+          "first_record_date": "2005-12-02",
+          "first_record_time": 388,
+          "current_record_date": "2023-05-28",
+          "current_record_time": 295.78,
+          "total_improvement_percent": 23.76804123711341,
+          "number_of_records": 26
+        }
+      }
+    ]
+  }
+]
