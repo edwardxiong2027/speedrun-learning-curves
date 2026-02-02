@@ -1,0 +1,21 @@
+# Speedrun Learning Curve Analysis
+# JEI Research Project - Edward Xiong
+
+# Data Collection
+requests>=2.31.0
+
+# Data Analysis
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Web App
+flask>=3.0.0
+plotly>=5.18.0
+
+# Jupyter Notebook (optional)
+jupyter>=1.0.0
