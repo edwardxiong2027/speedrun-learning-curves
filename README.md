@@ -76,7 +76,23 @@ Open http://localhost:5000 to explore the interactive visualizations.
 
 ## Key Findings
 
-*Results will be populated after data analysis completes.*
+| Metric | Value |
+|--------|-------|
+| Games Analyzed | 5 |
+| Categories | 15 |
+| World Records | 429 |
+| Average R² | **0.935** |
+| Best Model | Wright's Learning Curve (46.7%) |
+| Average Improvement | 49.8% |
+
+### Model Distribution
+- **Wright's Learning Curve**: 7 categories (46.7%)
+- **Hyperbolic**: 4 categories (26.7%)
+- **Exponential**: 3 categories (20.0%)
+- **Power Law**: 1 category (6.7%)
+
+### Key Insight
+Wright's 1936 Learning Curve, originally developed for aircraft manufacturing, best describes how speedrunning world records improve over time - demonstrating that collective human optimization follows universal mathematical patterns.
 
 ## Web Application Preview
 
